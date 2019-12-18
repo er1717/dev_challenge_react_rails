@@ -70,7 +70,7 @@ class App extends React.Component {
 
         <div>
           <a
-            href="https://github.com/er1717/dev_challenge_2#api-documentation"
+            href="https://github.com/er1717/dev_challenge_react_rails#api-documentation"
             target="_blank"
           >
             View API Docs
